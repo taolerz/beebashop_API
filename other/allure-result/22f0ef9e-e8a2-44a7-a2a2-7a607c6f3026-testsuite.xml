@@ -1,0 +1,36 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1536734949948" stop="1536734949974">
+  <name>beebashop_API.other.test_bbb</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1536734949948" status="passed" stop="1536734949970">
+      <description>测试5</description>
+      <name>test_aa8.test_fail</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="测试模块_父模块"/>
+        <label name="story" value="测试子模块2"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14788-MainThread"/>
+        <label name="host" value="1TADLRNV3A3MPS1"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1536734949971" status="passed" stop="1536734949974">
+      <description>测试描述：aa，5 是否相等</description>
+      <name>test_aa8.test_node</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="测试模块_父模块"/>
+        <label name="story" value="测试_子模块1"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14788-MainThread"/>
+        <label name="host" value="1TADLRNV3A3MPS1"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

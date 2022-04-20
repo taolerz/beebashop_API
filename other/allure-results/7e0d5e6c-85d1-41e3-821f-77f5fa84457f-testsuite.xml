@@ -1,0 +1,42 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1536299457206" stop="1536299457217">
+  <name>beebashop_API.other.jenkins_test</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1536299457206" status="passed" stop="1536299457211">
+      <name>user_tel03.test_sendmsg0301</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5984-MainThread"/>
+        <label name="host" value="1TADLRNV3A3MPS1"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1536299457213" status="passed" stop="1536299457215">
+      <name>user_tel03.test_sendmsg0302</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5984-MainThread"/>
+        <label name="host" value="1TADLRNV3A3MPS1"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1536299457216" status="passed" stop="1536299457217">
+      <name>user_tel03.test_sendmsg0303</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5984-MainThread"/>
+        <label name="host" value="1TADLRNV3A3MPS1"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,9 @@
+[
+  "test_api_dress.py::dress_01::test_ad_dress0101",
+  "test_api_dress.py::dress_01::test_lall_dress0101",
+  "test_api_dress.py::dress_01::test_lone_dress0101",
+  "test_api_dress.py::dress_01::test_modify_dress0101",
+  "test_api_dress.py::dress_01::test_n_delete_dress0101",
+  "test_bbb.py::test_aa8::test_fail",
+  "test_bbb.py::test_aa8::test_node"
+]

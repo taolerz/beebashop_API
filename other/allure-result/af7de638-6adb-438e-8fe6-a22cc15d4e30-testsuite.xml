@@ -1,0 +1,79 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1536734948860" stop="1536734949945">
+  <name>beebashop_API.other.test_api_dress</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1536734948860" status="passed" stop="1536734949107">
+      <description>填入正确的信息添加地址，并设置为默认地址。</description>
+      <name>dress_01.test_ad_dress0101</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="地址api测试"/>
+        <label name="story" value="001验证添加地址"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14788-MainThread"/>
+        <label name="host" value="1TADLRNV3A3MPS1"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1536734949110" status="passed" stop="1536734949313">
+      <name>dress_01.test_lall_dress0101</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="地址api测试"/>
+        <label name="story" value="004验证查看用户所有地址"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14788-MainThread"/>
+        <label name="host" value="1TADLRNV3A3MPS1"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1536734949316" status="passed" stop="1536734949509">
+      <name>dress_01.test_lone_dress0101</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="地址api测试"/>
+        <label name="story" value="005验证查看用户单个地址"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14788-MainThread"/>
+        <label name="host" value="1TADLRNV3A3MPS1"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1536734949511" status="passed" stop="1536734949712">
+      <description>修改刚新建的地址</description>
+      <name>dress_01.test_modify_dress0101</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="地址api测试"/>
+        <label name="story" value="002验证修改地址"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14788-MainThread"/>
+        <label name="host" value="1TADLRNV3A3MPS1"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1536734949715" status="passed" stop="1536734949945">
+      <description>删除刚添加的地址</description>
+      <name>dress_01.test_n_delete_dress0101</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="地址api测试"/>
+        <label name="story" value="003验证删除地址"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14788-MainThread"/>
+        <label name="host" value="1TADLRNV3A3MPS1"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
